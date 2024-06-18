@@ -29,6 +29,6 @@
     - -m "message" -> shortcut for writing a message on your commit
 
 - 3 stages
-  - working directory
-  - staging area
+  - working directory (red)
+  - staging area (green)
   - project
